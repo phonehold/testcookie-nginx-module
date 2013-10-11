@@ -1,4 +1,4 @@
-Description
+:sparkles: Description :sparkles:
 ===========
 
 **testcookie-nginx-module** is a simple robot mitigation module using cookie based challenge/response.
